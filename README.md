@@ -20,10 +20,24 @@
   <br>
 
 ![image](https://github.com/user-attachments/assets/f79c6f10-9f4b-4878-b78c-caa0351e88ba)
-
-**********************************
-
+<br>
+<br>
+* Create a new file
+  <br>
+  <br>
+  **Step one**: Open in Visual Studio Code.
+  <br>
+  <br>
 ![image](https://github.com/user-attachments/assets/0bc01f62-4f23-4784-9309-72ebe2600f19)
+  <br>
+  <br>
+  **Step two**: Add a file.
+![image](https://github.com/user-attachments/assets/7cf211ce-6c44-4a5f-973d-f468566ce325)
+  <br>
+  <br>
 
-
-
+![image](https://github.com/user-attachments/assets/b2f4cd35-011d-4f15-a60d-f15ad8378605)
+  <br>
+  <br>
+  **Step three**: Add the code.
+![image](https://github.com/user-attachments/assets/d1143183-1e49-45a9-9132-c9f51c2b77be)
