@@ -97,12 +97,9 @@
 
 *********************************
 ## Merging
-<br>
-<br>
-2.After finishing the edits, she clicked here
-<br>
-<br>
+
 
 ![image](https://github.com/user-attachments/assets/9d095a35-c661-4a3d-bf57-92f0ec4c5ba4)
-
+<br>
+<br>
 ![image](https://github.com/user-attachments/assets/b6392b60-50c0-4d3f-8726-27251edac38c)
