@@ -41,3 +41,28 @@
   <br>
   **Step three**: Add the code.
 ![image](https://github.com/user-attachments/assets/d1143183-1e49-45a9-9132-c9f51c2b77be)
+
+  <br>
+  <br>
+
+  * commit changes
+    <br>
+    <br>
+    **Step one**: Write a clear commit message.
+
+![image](https://github.com/user-attachments/assets/8ce340b7-9718-4b51-b008-5717f251d11e)
+   <br>
+   <br>
+   **Step two**: Click the commit button.
+    <br>
+    <br>
+![image](https://github.com/user-attachments/assets/0d24759d-71ab-49ca-a888-f16845854ce1)
+ <br>
+   <br>
+* Push develop branch to GitHub
+![image](https://github.com/user-attachments/assets/0b3372ce-fe5b-455a-a39c-81769bd711b8)
+
+*******************************
+![image](https://github.com/user-attachments/assets/270217e7-618e-469a-879f-90c18e2e7f75)
+
+![image](https://github.com/user-attachments/assets/c91fb2ab-8919-4276-ba70-ee79c4f2fde0)
