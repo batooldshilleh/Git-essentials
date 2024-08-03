@@ -1,6 +1,6 @@
 print("GitHub 🤗 \n")
 
-x = int(input("enter first number \n"))
-y = int(input("enter secound number \n"))
-z = x + y
-print(f"sum = {z}")
+firstNumber = int(input("enter first number \n"))
+secondNumber = int(input("enter secound number \n"))
+summation = firstNumber + secondNumber
+print(f"sum = {summation}")
