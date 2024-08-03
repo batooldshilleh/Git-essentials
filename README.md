@@ -43,8 +43,7 @@
    **Step Three**: Add the code.
    <br>
    <br>
-
-   ![Add Code](https://github.com/user-attachments/assets/170dc819-f9f8-47d0-9313-8b0ae7a6e97f)
+   ![Add Code](https://github.com/user-attachments/assets/30e43896-75c4-4505-bd7b-f777c52efee1)
    <br>
    <br>
 
