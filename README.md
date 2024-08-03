@@ -80,5 +80,29 @@
    ![Pull Request](https://github.com/user-attachments/assets/c91fb2ab-8919-4276-ba70-ee79c4f2fde0)
 
    *******************************************
+## Updating
+1.Some one ask a changes
+<br>
+<br>
    ![image](https://github.com/user-attachments/assets/0fb423d5-7f85-42bd-ad90-962c6f06a4e5)
+<br>
+<br>
+2.After finishing the edits, she clicked here
+<br>
+<br>
+![image](https://github.com/user-attachments/assets/ee310ea0-aaba-456a-8fa1-60902e787b96)
+<br>
+<br>
+![image](https://github.com/user-attachments/assets/187ae77b-a9e4-482f-990b-b4b122e2b403)
 
+*********************************
+## Merging
+<br>
+<br>
+2.After finishing the edits, she clicked here
+<br>
+<br>
+
+![image](https://github.com/user-attachments/assets/9d095a35-c661-4a3d-bf57-92f0ec4c5ba4)
+
+![image](https://github.com/user-attachments/assets/b6392b60-50c0-4d3f-8726-27251edac38c)
