@@ -105,20 +105,51 @@
 ![image](https://github.com/user-attachments/assets/b6392b60-50c0-4d3f-8726-27251edac38c)
 
 **************************************
-## Edeting 
-
+## Editing 
+1. Open in Terminal
+   <br>
+   <br>
 ![image](https://github.com/user-attachments/assets/615dfcd5-f36f-455b-830a-661525fb4d78)
-
-
+<br>
+   <br>
+2. Write a command to update the commit messag
+   <br>
+   <br>
+   
 ![image](https://github.com/user-attachments/assets/f03e97eb-803b-4220-8f30-c23131d0a4d1)
 
+<br>
+   <br>
+3. Edit message
+   <br>
+   <br>
+   
 ![image](https://github.com/user-attachments/assets/1ceeb95c-6ffc-4f93-a302-66b4eb184ad2)
 
+<br>
+   <br>
+   
 ![image](https://github.com/user-attachments/assets/7f5d7b83-18ab-43db-9465-26ab2dac263f)
 
+
+<br>
+   <br>
+4. Force Push
+   <br>
+   <br>
+   
 ![image](https://github.com/user-attachments/assets/726637fe-a11d-401e-96b9-2e45ba1d7547)
+
+
+<br>
+   <br>
+5. Interactive Rebase
+   <br>
+   <br>
 
 ![image](https://github.com/user-attachments/assets/d39ba1ae-e8d9-4b4c-a111-d463d28b7540)
 
+ <br>
+   <br>
 
 ![image](https://github.com/user-attachments/assets/0c1e293b-22b1-462f-9710-fd0888593b29)
