@@ -1,0 +1,17 @@
+{
+  "name": "proj",
+  "version": "1",
+  "main": "index.js",
+  "repository": "https://github.com/batooldshilleh/Git-essentials.git",
+  "license": "MIT",
+  "scripts": {
+    "release": "release"
+  },
+  "dependencies": {
+    "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "standard-version": "^9.5.0",
+    "webpack": "^5.24.3"
+  }
+}
